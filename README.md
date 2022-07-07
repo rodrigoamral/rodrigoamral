@@ -1,5 +1,4 @@
 ### Olá ! Eu sou o Rodrigo Amaral 👋
-- 🌱 Atualmente sou estudante de Ciência da Computação na UFSCAR.
 - ⚡ Interessando em programação competitiva.
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -15,10 +14,6 @@
   
 ##
   
-<div> 
-  <a href = "mailto:rodrigohamral@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-amaral-966769230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div>  
 ![Snake animation](https://github.com/rodrigoamral/rodrigoamral/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
